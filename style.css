@@ -1,0 +1,21 @@
+body {
+    font-family: times;
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #ff0000;
+    letter-spacing: 2.5px;
+    font-family: minecraft;
+    text-align: center;
+}
+
+@font-face {
+    font-family: minecraft;
+    src: url('assets/minecraft.ttf');
+}
+
+@font-face {
+    font-family: times_new;
+    src: url('assets/times_new.ttf');
+}
